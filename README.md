@@ -1,6 +1,7 @@
 # ER-Diagram-Workshop:
 ## ER DIAGRAM(University Database):
-![university dbbms drawio](https://github.com/user-attachments/assets/b81d3f69-305c-419b-8575-8eaa14771601)
+![university dbbms drawio](https://github.com/user-attachments/assets/506fd1a9-0866-4a1e-aae6-3613866cb5d8)
+
 Here’s the ER diagram based on university database scenario, including the entities, relationships, attributes, and cardinality/participation constraints. The diagram also incorporates the concept of course prerequisites.
 ## Design Choices and Explanation:
 ### Entities:
